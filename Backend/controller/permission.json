@@ -1,0 +1,7 @@
+[
+    {"Admin":{
+        "roll":"Admin",
+        "read":true,
+        "delete":true
+    }}
+]

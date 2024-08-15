@@ -1,0 +1,25 @@
+.header-links{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    margin: 0;
+    
+}
+.header-links>a{
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    font-weight:bold;
+    
+}
+
+.header-links>a:hover{
+    color: gray;
+}
+
+.hearder{
+    width: 100%;
+    background-color: rgb(39, 39, 39);;
+}
